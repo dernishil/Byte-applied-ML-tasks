@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+lora_out/
+prepared/
+development/
+test/
+*.zip
+*.raw
