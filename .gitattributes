@@ -1,0 +1,1 @@
+models/rank32_e5_802k/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
