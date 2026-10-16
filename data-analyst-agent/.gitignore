@@ -1,0 +1,15 @@
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local database and generated outputs
+data/
+outputs/

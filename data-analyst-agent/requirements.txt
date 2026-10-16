@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy
+scipy
+matplotlib
+openpyxl
+pydantic-settings
+groq
+streamlit
+pytest
+# optional: semantic memory recall (set USE_EMBEDDINGS=true)
+# sentence-transformers
